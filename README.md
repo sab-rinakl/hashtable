@@ -1,2 +1,2 @@
 # hashtable
-Hashtable implementation in C++.
+Hashtable that uses a string as a key and a templated T value. 
